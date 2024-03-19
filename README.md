@@ -27,3 +27,7 @@ All group members speak during the presentation. (5 points)
 1.Content, transitions, and conclusions flow smoothly within any time restrictions. (5 points)
 2.The content is relevant to the project. (10 points)
 3.The presentation maintains audience interest. (5 points)
+
+
+1. TABLEAU HTTPS
+2. https://public.tableau.com/app/profile/santiago.ayala.lomelin/viz/WalmartProyecto4/Dashboard1?publish=yes
